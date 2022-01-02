@@ -1,3 +1,3 @@
 Hi.  
-I used to enjoy programming.  
-flowfr_nmrs#6943
+I enjoy programming.  
+discord: flowfr_nmrs#6943
