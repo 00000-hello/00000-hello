@@ -1,1 +1,1 @@
-![Flowfr Nmrs's card name](https://cardivo.vercel.app/api?name=Flowfr%20Nmrs&description=Hi,%20I%27m%20a%20programmer%20and%20I%20make%20small%20screen%20big.&image=https://avatars.githubusercontent.com/u/92493116?v=4&backgroundColor=%23c3c3c3&fontColor=%23000000)
+![Flowfr Nmrs's card name](https://cardivo.vercel.app/api?name=Flowfr%20Nmrs&description=Hi,%20I%27m%20a%20programmer%20and%20I%20have%20nothing%20to%20talk%20about%20yet.&image=https://avatars.githubusercontent.com/u/92493116?v=4&backgroundColor=%23c3c3c3&fontColor=%23000000)
